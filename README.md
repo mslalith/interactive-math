@@ -1,6 +1,6 @@
 # Interactive Math
 
-Inspired from [@physics_only_](https://www.instagram.com/physicsonly/).<br>
+Inspired from [@physicsonly](https://www.instagram.com/physicsonly/).<br>
 [https://www.instagram.com/reel/CTuSrCygZUb/](https://www.instagram.com/reel/CTuSrCygZUb/)
 
 Implemented with Jetpack Compose. Tried different approaches but finally went with `Recursive Composables`
